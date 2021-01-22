@@ -1,0 +1,8 @@
+SE RECOMANDA DESCARCAREA FOLDERULUI DE PROIECT IN DISCUL C.
+
+SE RULEAZA JAR-UL DIN: 
+C:\miniGame\out\artifacts\miniGame_jar
+
+DISTRACTIE PLACUTA!
+
+@Alexandra_Ioana_Varga, 30223
